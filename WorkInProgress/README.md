@@ -34,7 +34,9 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Construindo o Dio Bank](https://web.dio.me/lab/construindo-o-dio-bank/learning/cb8eec57-589e-4ee9-98e0-e6725cbc051a)[Entendendo o desafio](https://web.dio.me/lab/construindo-o-dio-bank/learning/fa6b3fce-5c74-48d6-a678-14afad858ebd)[ENTREGAR PROJETO](https://web.dio.me/project/construindo-o-dio-bank/learning/cb8eec57-589e-4ee9-98e0-e6725cbc051a?back=/track/formacao-typescript-fullstack-developer&tab=path&moduleId=undefined)
+- [Construindo o Dio Bank](https://web.dio.me/lab/construindo-o-dio-bank/learning/cb8eec57-589e-4ee9-98e0-e6725cbc051a)
+- [Entendendo o desafio](https://web.dio.me/lab/construindo-o-dio-bank/learning/fa6b3fce-5c74-48d6-a678-14afad858ebd)
+- [ENTREGAR PROJETO](https://web.dio.me/project/construindo-o-dio-bank/learning/cb8eec57-589e-4ee9-98e0-e6725cbc051a?back=/track/formacao-typescript-fullstack-developer&tab=path&moduleId=undefined)
 
 
 
